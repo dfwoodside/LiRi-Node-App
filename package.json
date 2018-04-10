@@ -1,0 +1,16 @@
+{
+  "name": "02-homework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Don Woodside",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "request": "^2.85.0",
+    "spotify": "^0.3.0"
+  }
+}
